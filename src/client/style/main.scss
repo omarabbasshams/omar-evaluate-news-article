@@ -1,0 +1,25 @@
+main {
+  margin: auto;
+  text-align: center;
+  #url {
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid cadetblue;
+    margin: 20px auto;
+    padding: 10px;
+  }
+
+  button {
+    width: 430px;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid cadetblue;
+    margin: 20px auto;
+  }
+  #noturl {
+    margin: 20px auto;
+    background-color: red;
+    color: white;
+  }
+}
