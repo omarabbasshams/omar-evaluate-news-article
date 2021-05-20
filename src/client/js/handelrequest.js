@@ -36,4 +36,4 @@ const updateUI = (obj) => {
   score_tag.innerHTML = obj.score_tag;
 };
 
-module.exports = handelrequest;
+// module.exports = handelrequest;

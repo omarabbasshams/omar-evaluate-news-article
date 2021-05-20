@@ -1,4 +1,5 @@
-const check = require("../client/js/checkurl");
+import "babel-polyfill";
+import { check } from "../client/js/checkurl";
 
 test("check if not url", () => {
   expect(check("omar")).toBe(0);

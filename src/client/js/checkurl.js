@@ -12,4 +12,4 @@ export var check = (url) => {
     return 0;
   }
 };
-module.exports = check;
+// module.exports = check;
